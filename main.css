@@ -67,4 +67,6 @@ a {
 
 @media (max-width: 670px) {
   .main-wrapper {
-    width: 100%; } }
+    width: 100%; }
+    .main-wrapper .profile-name {
+      font-size: 15px; }}
