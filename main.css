@@ -72,6 +72,9 @@ a {
     .main-wrapper .container {
       width: 100%; }
       .main-wrapper .container .sns-index-content {
-        width: 100%; } }
+        width: 100%; }
+        .main-wrapper .container .sns-index-content .profile-name {
+          margin-top: 35px;
+          margin-bottom: 20px; } }
 
 /*# sourceMappingURL=main.css.map */
