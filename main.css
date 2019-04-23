@@ -69,5 +69,6 @@ a {
 @media (max-width: 670px) {
   .main-wrapper {
     width: 100%; }
-    .main-wrapper .container .sns-index-content .content-profile .profile-name {
-      font-size: 15px; }}
+    .main-wrapper .container {
+      width: 100%; } }
+
