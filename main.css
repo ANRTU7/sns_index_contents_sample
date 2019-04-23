@@ -70,5 +70,6 @@ a {
   .main-wrapper {
     width: 100%; }
     .main-wrapper .container {
-      width: 100%; } }
-
+      width: 100%; }
+      .main-wrapper .container .sns-index-content {
+        width: 100%; } }
